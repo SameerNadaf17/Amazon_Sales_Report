@@ -54,7 +54,7 @@ In this analysis, we've explored several ways to visualize and analyze data rela
     viridis) to enhance the clarity of the graphs.
 
   ->Customizing the color palette helped to differentiate categories and visualize the data in a more interpretable manner. We also 
-    applied      gradients to represent revenue variations in an aesthetically pleasing way.
+    applied gradients to represent revenue variations in an aesthetically pleasing way.
 
 4. Key Insights:
 
